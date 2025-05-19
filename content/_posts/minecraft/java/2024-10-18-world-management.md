@@ -9,7 +9,7 @@ keywords:
     - keyword: map
       matches: *world_matches
 author:
-    - TWIXhunter
+    - theTWIXhunter
     - Mocab
 ---
 

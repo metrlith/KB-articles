@@ -8,7 +8,7 @@ keywords:
     - keyword: discord
       matches: ["minecraft", "chat", "console", "link"]
 author:
-    - Twixhunter
+    - theTWIXhunter
     - Mocab
 
 icon: "https://cdn.modrinth.com/data/UmLGoGij/icon.png"

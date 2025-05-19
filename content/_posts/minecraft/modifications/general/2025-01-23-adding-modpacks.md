@@ -13,7 +13,7 @@ keywords:
     - keyword: mod pack
       matches: *modpack_matches
 author:
-    - TWIXhunter
+    - theTWIXhunter
     - Deka
     - Mocab
 ---

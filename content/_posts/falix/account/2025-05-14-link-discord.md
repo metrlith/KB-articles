@@ -8,7 +8,7 @@ description: "Learn how to link your Discord account to your Falix account."
 keywords:
     - keyword: discord
       matches: ["connect", "link", "account"]
-author: TWIXhunter
+author: theTWIXhunter
 ---
 
 Linking your Discord account to your Falix account makes it easier for you to log in to your account, and also allows our support team to quickly identify and assist you.

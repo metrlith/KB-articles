@@ -9,7 +9,7 @@ keywords:
     - keyword: start
       matches: *start_matches
 author:
-    - TWIXhunter
+    - theTWIXhunter
     - Mocab
 ---
 

@@ -9,7 +9,7 @@ keywords:
       matches: ["add","custom","server", "put"]
 permalink: /minecraft/java/configuration/datapacks
 author:
-    - TWIXhunter
+    - theTWIXhunter
     - Deka
 ---
 

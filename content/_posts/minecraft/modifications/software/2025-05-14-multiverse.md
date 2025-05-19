@@ -4,7 +4,7 @@ tags: Software
 permalink: /minecraft/modifications/software/multiverse
 description: Using Multiverse-Core and Multiverse-Portals to add portals to custom worlds
 author:
-    - TWIXhunter
+    - theTWIXhunter
     - Deka
     - Mocab
 icon: "https://cdn.modrinth.com/data/3wmN97b8/3e3c705351a85c68b78a6131aff23f4674b2f71f_96.webp"

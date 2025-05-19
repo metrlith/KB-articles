@@ -9,7 +9,7 @@ keywords:
     - keyword: plugin
       matches: *mods_matches
 author:
-    - TWIXhunter
+    - theTWIXhunter
     - Deka
     - Mocab
 ---
